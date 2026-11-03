@@ -1,0 +1,19 @@
+R version 4.5.0 (2025-04-11)
+bsvars 4.0.0.9000
+bvars 1.0
+bsvarSIGNs 2.0.0.9000
+Rcpp 1.1.1
+RcppArmadillo 15.2.3.1
+RcppProgress 0.4.2
+RcppTN 0.2.2
+permute 0.9.10
+mgcv 1.9.1
+xtable 1.8.4
+mvtnorm 1.3.7
+zoo 1.8.14
+pkgdown 2.1.3
+rmarkdown 2.30
+
+bsvars source baseline: 0606b87499a6bc8077dc5a07b7c026fef7aa65e9
+bsvarSIGNs compatible source: c699e627f87c2027151955d7ee1cbcee3b27cc57
+Short-chain execution was validated; full published numerical results were not recomputed.

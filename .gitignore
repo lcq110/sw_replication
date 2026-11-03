@@ -1,0 +1,7 @@
+results/
+outputs/
+.Rhistory
+.RData
+.DS_Store
+forecasting/burnin/starting_values/
+simulations/dgps/
